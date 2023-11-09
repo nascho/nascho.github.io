@@ -1,5 +1,4 @@
-# nascho.github.io
-Javascript Todo List
+# Javascript Todo List
 
 ## Application Purpose
 To create a Todo List for the user.
